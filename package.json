@@ -1,5 +1,5 @@
 {
-  "name": "@username/my-react-lib",
+  "name": "@vakitaki/mu-package",
   "version": "0.1.0",
   "main": "dist/my-react-lib.cjs.js",
   "module": "dist/my-react-lib.es.js",
