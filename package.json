@@ -8,6 +8,7 @@
     "dist"
   ],
   "scripts": {
+    "dev": "vite --open",
     "build": "vite build",
     "prepublishOnly": "npm run build"
   },
