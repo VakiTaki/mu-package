@@ -1,5 +1,5 @@
 {
-  "name": "my-react-lib",
+  "name": "@username/my-react-lib",
   "version": "0.1.0",
   "main": "dist/my-react-lib.cjs.js",
   "module": "dist/my-react-lib.es.js",
@@ -14,5 +14,9 @@
   "peerDependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VakiTaki/mu-package.git"
   }
 }
