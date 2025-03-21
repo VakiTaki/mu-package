@@ -15,7 +15,7 @@ const MyButton: React.FC<ButtonProps> = ({ label, onClick }) => {
         cursor: "pointer",
         borderRadius: "5px",
         border: "none",
-        backgroundColor: "green",
+        backgroundColor: "red",
         color: "white",
       }}
     >
