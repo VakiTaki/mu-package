@@ -1,6 +1,6 @@
 {
   "name": "@vakitaki/mu-package",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "dist/mu-package.cjs.js",
   "module": "dist/mu-package.es.js",
   "types": "dist/index.d.ts",
