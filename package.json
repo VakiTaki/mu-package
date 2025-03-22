@@ -4,18 +4,6 @@
   "main": "dist/mu-package.cjs.js",
   "module": "dist/mu-package.es.js",
   "types": "dist/index.d.ts",
-  "exports": {
-    ".": {
-      "types": "./dist/index.d.ts",
-      "import": "./dist/mu-package.js",
-      "require": "./dist/mu-package.js"
-    },
-    "./utils": {
-      "types": "./dist/utils.d.ts",
-      "import": "./dist/utils.js",
-      "require": "./dist/utils.js"
-    }
-  },
   "files": [
     "dist"
   ],
